@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Garuda Browser</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="refresh">Refresh</string>
+    <string name="stop">Stop</string>
+    <string name="goback">Go Back</string>
+    <string name="forward">Go Foward</string>
+    <string name="screenshoot">Screenshoot</string>
+    <string name="aboutus">Thanks for trying and supporting our app.\n\n
+        \ GARUDA BROWSER will continue to develop its features and technology to keep up with the times until GARUDA BROWSER became the number one browser application in the world.\n\n
+        \ Yours sincerely and successfully</string>
+    <string name="share">Share</string>
+
+    <string name="back">Back</string>
+    <string name="history">History</string>
+    <string name="go">Go</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="download">Download</string>
+    <string name="question">Do you want to save this file?</string>
+    <string name="result">File saved: </string>
+    <string name="clear">Clear</string>
+    <string name="close">Close</string>
+    <string name="stopping">stopping</string>
+    <string name="favicon">favicon</string>
+    <string name="noconnection">Internet connection not available</string>
+    <string name="error">Error</string>
+    <string name="nosd">Storage not available</string>
+    <string name="banner_ad_unit_id">ca-app-pub-9043865407906531/7957823521</string>
+
+</resources>

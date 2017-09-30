@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="Menu">
+        <menu>
+            <item
+                android:id="@+id/nav_home"
+                app:ico_icon="{faw-home}"
+                android:title="Home" />
+            <item
+                android:id="@+id/nav_history"
+                app:ico_icon="{faw-home}"
+                android:title="History" />
+        </menu>
+    </item>
+
+    <item android:title="Info">
+        <menu>
+            <item
+                android:id="@+id/nav_aboutus"
+                app:ico_icon="{faw-home}"
+                android:title="About Us"/>
+            <item
+                android:id="@+id/nav_contactus"
+                android:title="Contact Us" />
+            <item
+                android:id="@+id/nav_themesetting"
+                android:title="Theme Setting" />
+        </menu>
+    </item>
+
+</menu>
